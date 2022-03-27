@@ -26,7 +26,5 @@ Running the code will open a window that displays the live feed. Bumper detectio
 
 OCR - Optical Character Recognition is very inconsistent when it comes to extracting text from models that it is not well trained with. This project will only work if camera is right in front of the the bumper with a straight angle. 
 
-## Huge framerate tanks - Pytesseract + live video feed
-
-
+## Sample Detection
 <img width="764" alt="158041176-59e0f6e4-ae35-4fa9-99b3-a8246f5127af" src="https://user-images.githubusercontent.com/74515743/160261605-67f428fa-015c-4272-9e24-02947c792274.png">
