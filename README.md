@@ -7,11 +7,11 @@ Detects robot's bumper and outputs description of robot if it exists in CSV file
 
 OpenCV 
 
-PyVision
+PyVision - https://github.com/SathR12/PyVision
 
 Numpy
 
-Pytesseract - https://github.com/SathR12/PyVision
+Pytesseract
 
 Json
 
