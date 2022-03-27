@@ -18,4 +18,4 @@ Json
 
 ## Inconsistency
 
-OCR - Optical Character Recognition is very inconsistent when it comes to extracting text from models that it is not well trained with. This project will only work if camera is right in front of the bummper with a straight angle. 
+OCR - Optical Character Recognition is very inconsistent when it comes to extracting text from models that it is not well trained with. This project will only work if camera is right in front of the the bumper with a straight angle. 
