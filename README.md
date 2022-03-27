@@ -11,9 +11,11 @@ PyVision
 
 Numpy
 
-Pytesseract
+Pytesseract - https://github.com/SathR12/PyVision
 
 Json
+
+CSV
 
 
 ## Output
