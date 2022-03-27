@@ -7,11 +7,10 @@ def parser(num):
         line = 0
         for each_row in csv_parser:
             if line == 0:
-               pass
                line += 1
+            
             else:
-                if int(each_row[0]) == num:
-                  
+                if each_row[0] == num:
                     return(f"team number: {each_row[0]}, average climb: {each_row[1]}, shooting: {each_row[2]}, defense: {each_row[3]}")
                     line += 1
                 
