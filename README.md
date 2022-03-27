@@ -1,4 +1,4 @@
-# Scouting project (inconsistent)
+# CSV project (inconsistent)
 
 Detects robot's bumper and outputs description of robot if it exists in CSV file 
 
